@@ -11,6 +11,8 @@ import UIKit
 class PokeCell: UICollectionViewCell {
     @IBOutlet weak var thumbImg: UIImageView!
     @IBOutlet weak var nameLabel: UILabel!
+
+    // come on!!!
     
     // store current object
     var pokemon: Pokemon!
